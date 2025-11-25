@@ -1,0 +1,4 @@
+rule,violations
+price_positive_violations,0
+host_id_null_violations,0
+minimum_nights_lt1_violations,0
